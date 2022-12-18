@@ -5,3 +5,5 @@ Clean and Simple UI
 Easy to login and logout
 Uses Firebase for authentication and storing messages
 Uniquely Generated Room
+
+For Queries email me at :farazayaz86@gmail.com
